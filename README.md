@@ -25,7 +25,7 @@ This Instagram clone project focuses on the backend/database aspects of the appl
  # Query Task
 1. We want to reward our users who have been around the longest.  Find the 5 oldest users.
    
-   [<img src="images/question 1 ans.png" alt="insta-logo" width="400"/>] &nbsp; 
+   [<img src="images/question 1 ans.png" alt="insta-logo" width="400"/>](https://www.mysql.com/) &nbsp; 
 
 2.What day of the week do most users register on? We need to figure out when to schedule an ad campgain
    
