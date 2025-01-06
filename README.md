@@ -18,3 +18,7 @@ This Instagram clone project focuses on the backend/database aspects of the appl
 
  # Tools & Library Used
  [<img src="images/instagram clone logo.png" alt="insta-logo" width="100"/>] &nbsp;
+
+ # Project Result
+ [Click here to get full code](INSTAGRAM CLONE CODE.sql)
+
