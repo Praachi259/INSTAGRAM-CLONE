@@ -17,7 +17,7 @@ This Instagram clone project focuses on the backend/database aspects of the appl
 - Viewing Posts and Comments
 
  # Tools & Library Used
- [<img src="images/instagram clone logo.png" alt="insta-logo" width="100"/>] &nbsp;
+ [<img src="images/instagram clone logo.png" alt="insta-logo" width="100"/>](https://www.mysql.com/) &nbsp;
 
  # Project Result
  [Click here to get full code](INSTAGRAM_CLONE_CODE.sql)
