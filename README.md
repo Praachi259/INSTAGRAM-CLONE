@@ -20,7 +20,7 @@ This Instagram clone project focuses on the backend/database aspects of the appl
  [<img src="images/mysql_logo.png" alt="mysql-logo" width="100"/>](https://www.mysql.com/) &nbsp;
 
  # Project Result
- [Click here to get full code](Instagram_clone_code.sql)
+ [Click here to get full code](instagram_clone_code2.sql)
 
  # Query Task
 1. We want to reward our users who have been around the longest.  Find the 5 oldest users.
@@ -63,7 +63,29 @@ Ans 2:  [<img src="images/question 2 sec answer.png" alt="mysql-logo" width="400
 
 10. We have a small problem with bots on our site... Find users who have liked every single photo on the site
 
-    [<img src="images/question 10 ans.png" alt="mysql-logo" width="400"/>](https://www.mysql.com/) &nbsp;   
+    [<img src="images/question 10 ans.png" alt="mysql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+
+11. List the top 5 users with the most uploaded photos.
+
+    [<img src="images/question 11 ans.png" alt="mysql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+
+12.Write a query to find the number of followers for each user.
+
+   [<img src="images/question 12 ans.png" alt="mysql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+   
+13. Identify the users who have the highest number of mutual followers (users following each other).
+
+    [<img src="images/question 13 ans.png" alt="mysql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+    
+14.  Find users who have never liked their own photos.
+
+   [<img src="images/question 14 ans.png" alt="mysql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+    
+15.  List all users who have received no likes on their photos but have liked other photos.
+
+     [<img src="images/question 15 ans.png" alt="mysql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+    
+     
 
 
 
